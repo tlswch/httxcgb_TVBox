@@ -10,10 +10,10 @@
 ### 版本
 - 1.开源版  自用`https://raw.liucn.cc/box/m.json`  
  🔰官方原版[TVBox_q215613905_20221218-1226.apk](https://liucn.lanzouf.com/iI9hZ0jsjv0d)　🔰UI美化版[TVBox_takagen99_20221224-2024.apk](https://liucn.lanzouf.com/i4xCu0jsjuvi)　  
- 🔰[更多TVbox](https://tsq.lanzouf.com/b0c4nr91c#123)　🔰[更多TVbox](https://wws.lanzouv.com/b03j4ulyh#999)　🔰[夸克下载](https://pan.quark.cn/s/4990bab723a1)　🔰[Pluto Player改版](https://pan.quark.cn/s/d5d888f3e25d)
+ 🔰[更多TVbox](https://tsq.lanzouf.com/b0c4nr91c#123)　🔰[更多TVbox](https://wws.lanzouv.com/b03j4ulyh#999)　🔰[更多下载](https://www.123pan.com/s/dIgRVv-Th3D3)　🔰[更多下载](https://www.123pan.com/s/dIgRVv-vh3D3)　🔰[Pluto Player](https://www.123pan.com/s/dIgRVv-Ah3D3)　
 
 - 2.多仓版  他人整理`https://raw.liucn.cc/box/dm.txt`  
- 🔰原版[影视仓_3.0.3_opt.apk](https://liucn.lanzouf.com/i9Pp10il0d3g)　🔰原版[影视仓_3.0.6_opt.apk](https://liucn.lanzouf.com/ijyBF0jsla4d)　🔰原版[影视仓_4.0.2_opt.apk](https://liucn.lanzouf.com/i13mU0jtp6vg)  
+ 🔰原版[影视仓_3.0.3_opt.apk](https://liucn.lanzouf.com/i9Pp10il0d3g)　🔰原版[影视仓_3.0.7_opt.apk](https://liucn.lanzouf.com/iDv9l0k6sjcb)　🔰原版[影视仓_4.0.2_opt.apk](https://liucn.lanzouf.com/i13mU0jtp6vg)  🔰原版[影视仓_4.0.3_opt.apk](https://liucn.lanzouf.com/i8bE20k6skgb)  
  🔰UI改版[可视TV Max_1.3.6.apk](https://liucn.lanzouf.com/iqzqG0jsl9ud)　
 
 - 3.内置版  
@@ -57,7 +57,7 @@ https://epg.112114.xyz/pp.xml
 
 ------
 ### 给英文不好的朋友
-GitHub 中文化插件   🔰[https://greasyfork.org/zh-CN/scripts/435208](https://greasyfork.org/zh-CN/scripts/435208)
+GitHub 中文化插件   🔰[https://greasyfork.org/zh-CN/scripts/435208](https://greasyfork.org/zh-CN/scripts/435208)  
 Github 增强-高速下载 🔰[https://greasyfork.org/zh-CN/scripts/412245](https://greasyfork.org/zh-CN/scripts/412245)  
 
 ### Github RAW 加速服务
