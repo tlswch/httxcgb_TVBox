@@ -160,9 +160,9 @@
 
 "parses":[
 
-{"name":"解析聚合","type":3,"url":"Demo"},
-{"name":"Json并发","type":2,"url":"Parallel"},
-{"name":"Json轮询","type":2,"url":"Sequence"},
+//{"name":"解析聚合","type":3,"url":"Demo"},
+//{"name":"Json并发","type":2,"url":"Parallel"},
+//{"name":"Json轮询","type":2,"url":"Sequence"},
 //{"name":"txcgb1","type":0,"url":"http://jiexi.freeee.ml/?url="},
 {"name":"txcgb","type":0,"url":"http://yy.freeee.ml/jx/player/777player/?url="},
 {"name":"三维空间","type":0,"url":"http://txcgb.3vkj.club/player/777/?url="},
