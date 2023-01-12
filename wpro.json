@@ -11,46 +11,43 @@
 "sites":[
 {"key":"七七","name":"酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"百影视频","name":"百影视频","type":3,"api":"csp_MianHua","searchable":1,"playerType":2,"quickSearch":1,"filterable":0,"ext":"http://47.104.99.175"},
-//{"key":"mtv_pc_奇艺视频","name":"奇艺视频","type":3,"api":"csp_IQIYI","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/qq_qiyi_mgtv.jar"},
-//{"key":"csp_MGTV","name":"芒果电视","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/qq_qiyi_mgtv.jar"},
-//{"key":"csp_QQ","name":"腾讯视频","type":3,"api":"csp_QQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/qq_qiyi_mgtv.jar"},
-    {
-      "key": "drpy_js_百忙无果",
-      "name": "芒果电视",
-      "type": 3,
-      "api": "./js/drpy2.min.js",
-      "ext": "https://agit.ai/txcgb/dr_py/raw/branch/master/js/百忙无果.js"
-    },
-    {
-      "key": "drpy_js_奇珍异兽",
-      "name": "奇艺视频",
-      "type": 3,
-      "api": "./js/drpy2.min.js",
-      "ext": "https://agit.ai/txcgb/dr_py/raw/branch/master/js/奇珍异兽.js"
-    },
-    {
-      "key": "drpy_js_腾云驾雾",
-      "name": "腾讯视频",
-      "type": 3,
-      "api": "./js/drpy2.min.js",
-      "ext": "https://agit.ai/txcgb/dr_py/raw/branch/master/js/腾云驾雾.js"
-    },
-    {
-      "key": "drpy_js_优酷",
-      "name": "优酷视频",
-      "type": 3,
-      "api": "./js/drpy2.min.js",
-      "ext": "https://agit.ai/txcgb/dr_py/raw/branch/master/js/优酷.js"
-    },
-{"key":"YQK_spider","name":"一起看TV","api":"csp_YQKAPP","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"https://api-tx.shumaxc.xyz"},
-    {
-      "key": "drpy_js_菜狗",
-      "name": "搜狗视频",
-      "type": 3,
-      "api": "./js/drpy2.min.js",
-      "ext": "https://agit.ai/txcgb/dr_py/raw/branch/master/js/菜狗.js"
-    },
+ {
+ "key": "drpy_js_百忙无果",
+ "name": "芒果电视",
+ "type": 3,
+ "api": "./js/drpy2.min.js",
+ "ext": "https://agit.ai/txcgb/dr_py/raw/branch/master/js/百忙无果.js"
+ },
+ {
+ "key": "drpy_js_奇珍异兽",
+ "name": "奇艺视频",
+ "type": 3,
+ "api": "./js/drpy2.min.js",
+ "ext": "https://agit.ai/txcgb/dr_py/raw/branch/master/js/奇珍异兽.js"
+ },
+ {
+ "key": "drpy_js_腾云驾雾",
+ "name": "腾讯视频",
+ "type": 3,
+ "api": "./js/drpy2.min.js",
+ "ext": "https://agit.ai/txcgb/dr_py/raw/branch/master/js/腾云驾雾.js"
+ },
+ {
+ "key": "drpy_js_优酷",
+ "name": "优酷视频",
+ "type": 3,
+ "api": "./js/drpy2.min.js",
+ "ext": "https://agit.ai/txcgb/dr_py/raw/branch/master/js/优酷.js"
+ },
+ {
+ "key": "drpy_js_菜狗",
+ "name": "搜狗视频",
+ "type": 3,
+ "api": "./js/drpy2.min.js",
+ "ext": "https://agit.ai/txcgb/dr_py/raw/branch/master/js/菜狗.js"
+ },
 {"key":"360","name":"360影视","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"YQK_spider","name":"一起看TV","api":"csp_YQKAPP","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"https://api-tx.shumaxc.xyz"},
 {"key":"快看影视","name":"快看影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"mtv_pc_小苹果源","name":"小苹果源","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"乐活影视","name":"乐活影视","type":1,"api":"https://lehootv.com/api.php/provide/vod/","categories":["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","灾难片","犯罪片","悬疑片","惊悚片","奇幻片","冒险片","武侠片","其它片","国产剧","港台剧","日韩剧","欧美剧","香港剧","台湾剧","美国剧","韩国剧","日本剧","泰国剧","港澳剧","日剧","韩剧","泰剧","海外剧","马泰剧","中漫","日漫","动漫","纪录片","动画片","国产动漫","港台动漫","日本动漫","海外动漫","日韩动漫","欧美动漫","动漫电影","国内综艺","港台综艺","大陆综艺","日韩综艺","欧美综艺","海外综艺"],"searchable":1,"quickSearch":1},
