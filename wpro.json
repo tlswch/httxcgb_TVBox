@@ -160,10 +160,11 @@
 
 "parses":[
 
-//{"name":"解析聚合","type":3,"url":"Demo"},
-//{"name":"Json并发","type":2,"url":"Parallel"},
-//{"name":"Json轮询","type":2,"url":"Sequence"},
+{"name":"解析聚合","type":3,"url":"Demo"},
+{"name":"Json并发","type":2,"url":"Parallel"},
+{"name":"Json轮询","type":2,"url":"Sequence"},
 //{"name":"txcgb1","type":0,"url":"http://jiexi.freeee.ml/?url="},
+{"name":"爱酷嗅探","type":0,"url":"https://jx.zhanlangbu.com/?url="},
 {"name": "rx2","type": 1,"url": "http://rxjx.kuanjv.com/allm3u8.php?url="},
 {"name":"txcgb","type":0,"url":"http://yy.freeee.ml/jx/player/777player/?url="},
 {"name":"三维空间","type":0,"url":"http://txcgb.3vkj.club/player/777/?url="},
@@ -171,8 +172,7 @@
 {"name":"小狼云","type":0,"url":"https://jx.xiaolangyun.com/?url="},
 {"name":"无名","type":0,"url":"https://www.administratorw.com/video.php?url="},
 {"name":"m3u8tv高清","type":0,"url":"https://jx.m3u8.tv/jiexi/?url="},
-{"name":"OKjx综合","type":0,"url":"https://okjx.cc/?url="},
-{"name":"爱酷嗅探","type":0,"url":"https://jx.zhanlangbu.com/?url="}
+{"name":"OKjx综合","type":0,"url":"https://okjx.cc/?url="}
 ],
 
 "flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","renrenmi","优酷","芒果","腾讯","爱奇艺","奇艺","ltnb","rx","CL4K","xfyun","wuduzy"],
