@@ -1,6 +1,6 @@
 
 
-百视高清,#genre#
+🇨🇳｜百视高清,#genre#
 
 CCTV1 8M,https://live.v1.mk/api/bestv.php?id=cctv1hd8m/8000000
 CCTV2 8M,https://live.v1.mk/api/bestv.php?id=cctv2hd8m/8000000
