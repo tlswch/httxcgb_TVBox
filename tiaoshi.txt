@@ -73,6 +73,10 @@
  "url": "http://api.kunyu77.com/api.php"
  },
  {
+ "name": "🍇非凡资源",
+ "url": "http://cj.ffzyapi.com/api.php/"
+ },
+ {
  "name": "🍇红牛资源",
  "url": "https://www.hongniuzy2.com/api.php"
  },
