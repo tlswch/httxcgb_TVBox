@@ -178,12 +178,104 @@
 {"name":"Json并发","type":2,"url":"Parallel"},
 {"name":"Json轮询","type":2,"url":"Sequence"},
 //{"name":"txcgb1","type":0,"url":"http://jiexi.freeee.ml/?url="},
+    {
+      "name": "365",
+      "type": 0,
+      "url": "https://chaxun.truechat365.com/?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "iqiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "mgtv",
+          "芒果",
+          "letv",
+          "乐视",
+          "pptv",
+          "PPTV",
+          "sohu",
+          "bilibili",
+          "哔哩哔哩",
+          "哔哩"
+        ]
+      }
+    },
+    {
+      "name": "盘古",
+      "url": "https://www.pangujiexi.cc/jiexi.php?url=",
+      "type": 0,
+      "ext": {
+        "flag": [
+          "qiyi",
+          "imgo",
+          "爱奇艺",
+          "奇艺",
+          "qq",
+          "腾讯",
+          "youku",
+          "优酷",
+          "pptv",
+          "PPTV",
+          "letv",
+          "乐视",
+          "leshi",
+          "bilibili",
+          "哔哩哔哩",
+          "哔哩",
+          "mgtv",
+          "芒果",
+          "sohu",
+          "xigua",
+          "fun",
+          "风行"
+        ],
+        "header": {
+          "User-Agent": "Mozilla/5.0"
+        }
+      },
+      "header": {
+        "User-Agent": "Mozilla/5.0"
+      }
+    },
+    {
+      "name": "夜幕",
+      "type": 0,
+      "url": "https://www.yemu.xyz/?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "iqiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "mgtv",
+          "芒果",
+          "letv",
+          "乐视",
+          "pptv",
+          "PPTV",
+          "sohu",
+          "bilibili",
+          "哔哩哔哩",
+          "哔哩"
+        ]
+      }
+    },
 {"name":"爱酷嗅探","type":0,"url":"https://jx.zhanlangbu.com/?url="},
 {"name": "rx2","type": 1,"url": "http://rxjx.kuanjv.com/allm3u8.php?url="},
-{"name":"txcgb","type":0,"url":"http://yy.freeee.ml/jx/player/777player/?url="},
+/*{"name":"txcgb","type":0,"url":"http://yy.freeee.ml/jx/player/777player/?url="},
 {"name":"三维空间","type":0,"url":"http://txcgb.3vkj.club/player/777/?url="},
 {"name":"热铁盒","type":0,"url":"https://txcgb.rth1.one/777/?url="},
 {"name":"小狼云","type":0,"url":"https://jx.xiaolangyun.com/?url="},
+*/
 {"name":"无名","type":0,"url":"https://www.administratorw.com/video.php?url="},
 {"name":"解析la","type":0,"url":"http://api.jiexi.la/?url="},
 {"name":"m3u8tv高清","type":0,"url":"https://jx.m3u8.tv/jiexi/?url="},
