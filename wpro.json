@@ -270,16 +270,16 @@
         ]
       }
     },
-{"name":"爱酷嗅探","type":0,"url":"https://jx.zhanlangbu.com/?url="},
+{"name":"爱酷","type":0,"url":"https://jx.zhanlangbu.com/?url="},
 {"name": "rx2","type": 1,"url": "http://rxjx.kuanjv.com/allm3u8.php?url="},
 /*{"name":"txcgb","type":0,"url":"http://yy.freeee.ml/jx/player/777player/?url="},*/
-/*{"name":"热铁盒","type":0,"url":"https://txcgb.rth1.one/777/?url="},
+{"name":"热铁盒","type":0,"url":"https://txcgb.rth1.one/777/?url="},
 {"name":"小狼云","type":0,"url":"https://jx.xiaolangyun.com/?url="},
-*/
+
 {"name":"无名","type":0,"url":"https://www.administratorw.com/video.php?url="},
 {"name":"解析la","type":0,"url":"http://api.jiexi.la/?url="},
-{"name":"m3u8tv高清","type":0,"url":"https://jx.m3u8.tv/jiexi/?url="},
-{"name":"OKjx综合","type":0,"url":"https://okjx.cc/?url="}
+{"name":"m3u8","type":0,"url":"https://jx.m3u8.tv/jiexi/?url="},
+{"name":"OKjx","type":0,"url":"https://okjx.cc/?url="}
 ],
 
 "flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","renrenmi","优酷","芒果","腾讯","爱奇艺","奇艺","ltnb","rx","CL4K","xfyun","wuduzy"],
