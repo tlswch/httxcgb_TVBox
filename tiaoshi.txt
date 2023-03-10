@@ -69,12 +69,16 @@
  
  "caijizhan": [
  {
- "name": "👑酷云77",
+ "name": "🍇酷云七七",
  "url": "http://api.kunyu77.com/api.php"
  },
  {
  "name": "🍇非凡资源",
  "url": "http://cj.ffzyapi.com/api.php/"
+ },
+ {
+ "name": "🍇新浪资源",
+ "url": "https://api.xinlangapi.com/xinlangapi.php/"
  },
  {
  "name": "🍇红牛资源",
@@ -198,7 +202,7 @@
  }
  ],
  
- "zhujiexi": [
+ "beiyongjiexi": [
  {
  "name": "free",
  "url": "https://h5.freejson.xyz/player/?url="
@@ -213,7 +217,7 @@
  }
  ],
  
- "beiyongjiexi": [
+ "zhujiexi": [
  {
  "name": "777",
  "url": "http://txcgb.loes.tk/jx/player/777player/?url="
