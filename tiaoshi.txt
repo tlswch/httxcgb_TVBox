@@ -216,7 +216,7 @@
  "beiyongjiexi": [
  {
  "name": "777",
- "url": "http://txcgb.intelyes.tk/jx/player/777player/?url="
+ "url": "http://txcgb.loes.tk/jx/player/777player/?url="
  },
  {
  "name": "热铁盒",
@@ -224,11 +224,11 @@
  },
  {
  "name": "txcgb",
- "url": "http://txcgb.intelyes.tk/jx/?url="
+ "url": "http://txcgb.loes.tk/jx/?url="
  },
  {
- "name": "小狼云",
- "url": "https://jx.xiaolangyun.com/?url="
+ "name": "解析啦",
+ "url": "http://api.jiexi.la/?url="
  },
  {
  "name": "无名",
@@ -247,6 +247,8 @@
  "url": "https://jx.zhanlangbu.com/?url="
  }
  ],
+ 
+ //"dianshizhibo": "./zhibobest.txt",
  
  "dianshizhibo": "https://agit.ai/txcgb/TVBox/raw/branch/master/live/zhibobest.txt",
  
